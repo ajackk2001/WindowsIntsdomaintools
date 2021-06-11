@@ -1,0 +1,10 @@
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.csprojAssemblyReference.cache
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.Domain.resources
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.Properties.Resources.resources
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.csproj.GenerateResource.cache
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.csproj.CoreCompileInputs.cache
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.Enb.resources
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\bin\Debug\DomainTool.exe
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\bin\Debug\DomainTool.pdb
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.exe
+C:\Users\A0404\source\repos\WindowsInts\DomainTool\obj\Debug\DomainTool.pdb
